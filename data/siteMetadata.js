@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Next Blog',
+  title: 'Joeri Breedveld Blog',
   author: 'Joeri Breedveld',
-  headerTitle: 'Next Blog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'Joeri Breedveld Blog',
+  description: 'My blog for school posts at Mediacollege Amsterdam',
   language: 'nl-nl',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
